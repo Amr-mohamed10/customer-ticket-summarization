@@ -1,0 +1,22 @@
+# Environment variables
+.env
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# MLflow local data (if you don't want to commit it)
+# mlruns/
+
+# Large data files (Optional: if Ticket Data.txt is very large or sensitive)
+# Ticket Data.txt
+
+# Evaluation results (Optional: if you generate many/large eval files)
+# evals/

@@ -1,0 +1,9 @@
+streamlit
+pandas
+python-dotenv
+langchain-openai
+openai
+mlflow
+plotly # Optional, used for charts in app.py
+tabulate # Used in Model.ipynb
+pandas==2.0.3
